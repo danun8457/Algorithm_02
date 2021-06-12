@@ -1,6 +1,6 @@
 # Algorithm_02
 Test 1
-1. Model
+1. Model : 
 Model 1
 
 ![모델1](https://user-images.githubusercontent.com/81460020/121791366-1a79a200-cc24-11eb-91e6-7162fde97652.png)
@@ -20,7 +20,7 @@ Model 1
 ![5번](https://user-images.githubusercontent.com/81460020/121791440-c622f200-cc24-11eb-9b8b-6635cb0eb465.png)
 
 Test 2
-1. Model
+1. Model : 
 Model 2
 
 
@@ -33,7 +33,7 @@ Model 2
 5.Images and corresponding probability that predicted Wrong
 
 Test 3
-1. Model
+1. Model : 
 Model 3
 
 
