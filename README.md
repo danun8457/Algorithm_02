@@ -9,7 +9,6 @@ Model 1
 2.  Training with Training loss
 ![2번](https://user-images.githubusercontent.com/81460020/121791430-b4d9e580-cc24-11eb-9fdb-5dc5f77199b1.png)
 
-
 3. Test Accuray
 ![3번](https://user-images.githubusercontent.com/81460020/121791438-c58a5b80-cc24-11eb-8232-4483b3d67284.png)
 
