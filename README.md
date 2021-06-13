@@ -15,7 +15,7 @@ Model 1
 ![3번](https://user-images.githubusercontent.com/81460020/121791438-c58a5b80-cc24-11eb-8232-4483b3d67284.png)
 
 4. Images and corresponding probabilty that predicted Right
-5. 
+
 ![4번](https://user-images.githubusercontent.com/81460020/121791439-c622f200-cc24-11eb-9f68-29b3d1c4540c.png)
 
 5.Images and corresponding probability that predicted Wrong
@@ -41,7 +41,7 @@ Model 2
 ![3번](https://user-images.githubusercontent.com/81460020/121791570-29f9ea80-cc26-11eb-9672-ecaa53114ba0.png)
 
 4. Images and corresponding probabilty that predicted Right
-5. 
+
 ![4qjs](https://user-images.githubusercontent.com/81460020/121791571-2a928100-cc26-11eb-8969-ba27f63f16c5.png)
 
 5.Images and corresponding probability that predicted Wrong
